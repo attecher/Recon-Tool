@@ -81,5 +81,3 @@ MIT License — feel free to use, modify, and distribute.
 
 Pull requests, feature suggestions, and tool integrations are welcome!
 
-```
-
