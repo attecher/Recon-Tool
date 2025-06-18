@@ -1,11 +1,4 @@
-
-
----
-
-### 📄 `README.md`
-
-```markdown
-# 🔍 Subdomain Enumeration Automation Script
+## 🔍 Subdomain Enumeration Automation Script
 
 This Bash script automates subdomain enumeration, probing for live hosts, and port scanning using tools like `subfinder`, `assetfinder`, `httprobe`, and `nmap`.
 
